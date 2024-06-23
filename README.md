@@ -98,5 +98,14 @@ Docker Host URI
 ```
 tcp://IPAddress:2375
 ```
-
+<br>
+<h3>Cloud docker Configuration</h3>
+Labels: docker-agent-alpine<br>
+Name: docker-agent-alpine<br>
+Docker Image: jenkins/agent:alpine-jdk17<br>
+Instance Capacity: 2<br>
+Remote File System Root: /home/jenkins
+<br><br>
+<h4>Restrict where this project can be run</h4>
+  - Label Expression: docker-agent-alpine
 

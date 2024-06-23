@@ -96,7 +96,7 @@ docker inspect <container_id> | grep IPAddress
 Docker Host URI
 
 ```
-TCP://IPAddress:2375
+tcp://IPAddress:2375
 ```
 
 

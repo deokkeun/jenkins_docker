@@ -1,3 +1,6 @@
+<img width="1440" alt="스크린샷 2024-06-23 오후 10 37 29" src="https://github.com/deokkeun/jenkins_docker/assets/84825191/bacdbd78-2a8a-49c5-aa74-6de7c3d2d3e0">
+<br>
+
 <h1>Downloading and running Jenkins in Docker</h1>
 <a href="https://www.jenkins.io/doc/book/installing/docker/#downloading-and-running-jenkins-in-docker">Docker에서 Jenkins 다운로드 및 실행</a>
 <br>
